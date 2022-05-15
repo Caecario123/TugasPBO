@@ -3,7 +3,7 @@ using Npgsql;
 using System.Data;
 using System.Configuration;
 
-namespace TugasPBO
+namespace TugasPBO1
 {
     class program
     {
